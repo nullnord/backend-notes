@@ -1,8 +1,5 @@
-# Project Name
+# Notes
 
-Project Description
-
-A brief description of your project.
 ## Installation
 
 Provide step-by-step instructions on how to set up and run your project locally. Include any dependencies that need to be installed and configuration steps.
