@@ -1,5 +1,10 @@
 # Notes
 
+Testing & deployment was entirely local, except the mongodb cluster.
+
+- Postman was used to contact specific endpoints for testing & authentication.
+
+
 ## Installation
 
 ```bash
