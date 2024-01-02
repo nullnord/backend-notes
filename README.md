@@ -44,6 +44,7 @@ POST /api/notes/:id/share: share a note with another user for the authenticated 
 GET /api/search?q=:query: search for notes based on keywords for the authenticated user```
 
 ```
+```
 api
 └── v1
     ├── controllers
