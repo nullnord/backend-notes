@@ -2,8 +2,6 @@
 
 ## Installation
 
-Provide step-by-step instructions on how to set up and run your project locally. Include any dependencies that need to be installed and configuration steps.
-
 ```bash
 # Clone the repository
 git clone https://github.com/nullnord/backend-notes.git
